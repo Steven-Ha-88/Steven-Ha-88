@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Steven Ha 👋
 
 Im Steven, a Front-end Developer
 
