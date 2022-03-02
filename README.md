@@ -1,4 +1,4 @@
-### Hey, I'm Steven Ha 👋 <a href="https://emoji.gg/emoji/8674-zenitsu-cry"><img src="https://emoji.gg/assets/emoji/8674-zenitsu-cry.png" width="32px" height="32px" alt="Zenitsu_Cry"></a>
+### Hey, I'm Steven Ha 👋 <a href="https://emoji.gg/emoji/2286_tanjirou_run"><img src="https://emoji.gg/assets/emoji/2286_tanjirou_run.gif" width="32px" height="32px" alt="tanjirou_run"></a>
 
 Im Steven, a Front-end Developer
 
