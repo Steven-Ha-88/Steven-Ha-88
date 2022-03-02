@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Im Steven, a Front-end Developer
+
 <!--
 **Steven-Ha-88/Steven-Ha-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
