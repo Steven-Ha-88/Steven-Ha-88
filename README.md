@@ -1,4 +1,4 @@
-### Hey, I'm Steven Ha 👋
+### Hey, I'm Steven Ha 👋 [![Zenitsu_sleeping](https://emoji.gg/assets/emoji/7954-zenitsu-sleeping.png)](https://emoji.gg/emoji/7954-zenitsu-sleeping)
 
 Im Steven, a Front-end Developer
 
