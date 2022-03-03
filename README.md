@@ -1,4 +1,4 @@
-### Hey, I'm Steven Ha <a href="https://emoji.gg/emoji/6937-emojieyebrown"><img src="https://emoji.gg/assets/emoji/6937-emojieyebrown.gif" width="22px" height="22px" alt="emojieyebrown"></a> <a href="https://emoji.gg/emoji/8007-kirbylink"><img src="https://emoji.gg/assets/emoji/8007-kirbylink.gif" width="64px" height="64px" alt="KirbyLink"></a>
+### Hey, I'm Steven Ha <a href="https://emoji.gg/emoji/6937-emojieyebrown"><img src="https://emoji.gg/assets/emoji/6937-emojieyebrown.gif" width="22px" height="22px" alt="emojieyebrown"></a> <a href="https://emoji.gg/emoji/8007-kirbylink"><img src="https://emoji.gg/assets/emoji/8007-kirbylink.gif" width="40px" height="40px" alt="KirbyLink"></a>
 Im Steven, a Front-end Developer
 
 <!--
