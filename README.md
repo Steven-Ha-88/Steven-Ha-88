@@ -1,4 +1,4 @@
-### Hey, I'm Steven Ha<a href="https://emoji.gg/emoji/6937-emojieyebrown"><img src="https://emoji.gg/assets/emoji/6937-emojieyebrown.gif" width="22px" height="22px" alt="emojieyebrown"></a>
+### Hey, I'm Steven Ha <a href="https://emoji.gg/emoji/6937-emojieyebrown"><img src="https://emoji.gg/assets/emoji/6937-emojieyebrown.gif" width="22px" height="22px" alt="emojieyebrown"></a>
 Im Steven, a Front-end Developer
 
 <!--
