@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything Open Source
 - 🌍 I'm mostly active within the React community
 - 📫 How to reach me: steven.dev@outlook.com
+- 💠 Check out my portfolio: www.stevenha.co.uk
 - ⚡ Fun fact: I'm the best at MarioKart!
 
 
