@@ -1,11 +1,10 @@
 
-<a href="https://emoji.gg/emoji/7638-wave"><img src="https://emoji.gg/assets/emoji/7638-wave.gif" width="64px" height="64px" alt="Wave"></a>
+<a href="https://emoji.gg/emoji/7638-wave"><img src="https://emoji.gg/assets/emoji/7638-wave.gif" width="100px" height="100px" alt="Wave"></a>
 ### Hey, I'm Steven Ha  <a href="https://emoji.gg/emoji/8007-kirbylink"><img src="https://emoji.gg/assets/emoji/8007-kirbylink.gif" width="50px" height="50px" alt="KirbyLink"></a>
 <b/>
 I'm a Front-End Developer based in London.
 
 Bio:
- 👋 
 - 🔭 I’m currently working on building my own npm component library
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on anything Open Source
